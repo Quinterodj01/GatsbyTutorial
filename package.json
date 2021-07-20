@@ -17,7 +17,7 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-icons": "^3.8.0",
-    "react-native": "^0.61.3"
+    "react-native": "^0.62.3"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
